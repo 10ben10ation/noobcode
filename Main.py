@@ -1,5 +1,5 @@
-for I in range(100):
+for i in range(100):
    Print ("loop)
-   If I == 50:
-      Print (breaking)
-      Break
+   If i == 50:
+      Print ("breaking")
+      break
